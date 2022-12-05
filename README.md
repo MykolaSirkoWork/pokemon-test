@@ -15,3 +15,4 @@ React native application for Pokemon services.
 
 
 write command in terminal: npm run test   
+# pokemon-test
