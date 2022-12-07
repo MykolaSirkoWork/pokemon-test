@@ -8,7 +8,7 @@ import {
   View,
 } from "react-native";
 
-import background from "../../../assets/Pokémon-Unite-Wallpaper-HD.png";
+import background from "../../../assets/background.png";
 
 const WelcomePageScreen = () => {
   const navigation = useNavigation();
